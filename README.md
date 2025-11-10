@@ -2,13 +2,15 @@
 I'm working on this project in my freetime, because I've seen an internship, and it had a kinda detailed description about what they needed. 
 
 # Whats done?
-- Front-end is done partially, its need minor changes, also currently the design is mobile oriented so on a bigger screen the UI looks awful .
+- Front-end is done partially, it needs minor changes, also currently the design is mobile oriented so on a bigger screen the UI looks awful .
 
 # What needs to be done?
 - Back-end work.
 - Front-end changes(Such as fix the look on bigger screens.)
 
-The project uses [ShadCN](https://ui.shadcn.com)
+- The project uses [ShadCN](https://ui.shadcn.com)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
